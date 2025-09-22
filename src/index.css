@@ -17,10 +17,15 @@
 }
 
 :root {
-  --bg-color-primary: #1976D2;
-  --bg-color-secondary: #FFC107;
-  --txt-white: #ffffff;
-  --txt-primary: #1976D2;
+  --bg-color-primary: #264653;
+  --bg-color-secondary: #eebffc;
+  --txt-white: #F9FAFB;
+  --txt-primary: #c179f5;
+
+  --clr-1: #6A0DAD;
+  --clr-2:#264653;
+  --clr-3:#D8B4E2;
+  --clr-4:#F9FAFB;
 }
 
 /*==================================

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useTranslation } from "react-i18next";
-import profilePic from "../../../public/imgs/yoma.png";
+import profilePic from "../../../public/imgs/yoma-profile.png";
 import playIntro from "../../../public/icons/play_intro.svg";
 // import IntroVideo from "../../../public/intros/intro-main.mp4"
 import IntroVideo from "../../../public/intros/nihongo-intro.mp4"
