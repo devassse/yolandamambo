@@ -1,0 +1,13 @@
+Minimalista Profissional
+
+Fundo: #FFFFFF (branco) ou #F5F5F5 (cinza-claro suave)
+
+Primária: #1976D2 (azul forte, transmite confiança)
+
+Secundária: #FFC107 (amarelo dourado, chama atenção nos detalhes)
+
+Texto principal: #212121 (cinza-escuro quase preto)
+
+Texto secundário: #757575 (cinza médio)
+
+Acento neutro: #E0E0E0 (cinza claro para bordas ou cards)
