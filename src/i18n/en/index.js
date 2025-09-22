@@ -14,7 +14,7 @@ export default {
   langJpRm: "Japanese(romaji)",
   langJp: "Japanese",
   download_cv: "Download CV",
-  download_cv_url: "../../../files/CV-joaodevsonmucavel-EN-8.0.pdf",
+  download_cv_url: "../../../files/CV_PT__Yolanda Mambo_2024.pdf",
   download: "Download",
   
   //About Section

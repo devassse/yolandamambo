@@ -44,7 +44,7 @@ const Hero = () => {
           </a>
         </div>
         <div className="profile">
-          <img src={profilePic} alt="João Devson Mucavel" />
+          <img src={profilePic} alt="Yolanda Mambo" />
         </div>
       </section>
       {introPopUp ?
