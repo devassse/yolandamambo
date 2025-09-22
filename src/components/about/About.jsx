@@ -16,51 +16,71 @@ const about = () => {
             Profissional altamente qualificada com mais de 15 anos de experiência, incluindo 12 anos em multinacionais nos sectores de mineração, soluções digitais e programas.
           </p>
           <p>
-            Excelentes habilidades de comunicação, análise, e domínio de softwares como Primavera, SAP, e Sage. Experiência em gestão de projetos internacionais e profundo conhecimento da legislação em Angola, Moçambique, e Portugal.
+            Excelentes habilidades de comunicação, análise, e domínio de softwares como Primavera, SAP, e Sage. Experiência em gestão de projetos internacionais e profundo conhecimento da legislação em Angola, Moçambique e Portugal.
           </p>
+          <ul>
+            <li>
+              Experiência com Primavera: 7+ anos, com certificações em faturação eletrónica, projetos e técnicas.
+            </li>
+            <li>
+              Experiência com SAP B1: 2+ anos, com certificações em vários módulos.
+            </li>
+            <li>
+              Experiência em contabilidade: 5+ anos, como contabilista em empresas grandes e pequenas.
+            </li>
+          </ul>
         </div>
-        {/* <div className="certifications-content">
+        <div className="certifications-content">
           <article className="certifications">
+            {/* BACHAREL */}
             <div className="certification">
-              <h3>Javascript</h3>
-              <p>Udemy | Acedemind</p>
-              <a target="_blank" href="../public/files/Certificate-Javascript.pdf">
+              <h3>Bacharelado em Economia </h3>
+              <p>Instituto Politécnico Maputo</p>
+              <a href="#" style={{ pointerEvents: "none", cursor: "not-allowed" }}>
                 {t("download")}
               </a>
             </div>
+            {/* BACHAREL */}
+            {/* LICENCIATURA */}
             <div className="certification">
-              <h3>Java</h3>
-              <p>Udemy | SDE Arts</p>
-              <a target="_blank" href="../public/files/Certificate-Java.pdf">
-              {t("download")}
-              </a>
-            </div>
-            <div className="certification">
-              <h3>DevOps Basics</h3>
-              <p>Udemy | Vitalii Shumylo</p>
-              <a
-                target="_blank"
-                href="../public/files/certificate-introDevOps.pdf"
-              >
+              <h3>Licenciatura em Contabilidade e Auditoria</h3>
+              <p>Universidade São Tomás de Moçambique</p>
+              <a href="#" style={{ pointerEvents: "none", cursor: "not-allowed" }}>
                 {t("download")}
               </a>
             </div>
+            {/* LICENCIATURA */}
+            {/* LICENCIATURA */}
             <div className="certification">
-              <h3>Certificado Profissional</h3>
-              <p>IICAEG | SNE</p>
-              <a target="_blank" href="../public/files/certidao-profissional.pdf">
-              {t("download")}
+              <h3>Técnica de Contabilidade</h3>
+              <p>Instituto Médio Politécnico </p>
+              <a href="#" style={{ pointerEvents: "none", cursor: "not-allowed" }}>
+                {t("download")}
               </a>
             </div>
-            <div className="certification">
-              <h3>Satori</h3>
-              <p>Programa Japonês Online</p>
-              <a target="_blank" href="../public/files/certificate-satori-nihongo.pdf">
-              {t("download")}
-              </a>
-            </div>
+            {/* LICENCIATURA */}
           </article>
-        </div> */}
+          <article className="certifications">
+            {/* BACHAREL */}
+            <div className="certification">
+              <h3>Certified Technician Primavera</h3>
+              <p>Cegid Primavera</p>
+              <a href="#" style={{ pointerEvents: "none", cursor: "not-allowed" }}>
+                {t("download")}
+              </a>
+            </div>
+            {/* BACHAREL */}
+            {/* LICENCIATURA */}
+            <div className="certification">
+              <h3>Certificação em Faturação Eletrónica</h3>
+              <p>Cegid Primavera</p>
+              <a href="#" style={{ pointerEvents: "none", cursor: "not-allowed" }}>
+                {t("download")}
+              </a>
+            </div>
+            {/* LICENCIATURA */}
+          </article>
+        </div>
       </section>
       {/* ABOUT SECTION */}
     </>

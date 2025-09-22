@@ -18,14 +18,9 @@
 
 :root {
   --bg-color-primary: #264653;
-  --bg-color-secondary: #eebffc;
+  --bg-color-secondary: #402249;
   --txt-white: #F9FAFB;
   --txt-primary: #c179f5;
-
-  --clr-1: #6A0DAD;
-  --clr-2:#264653;
-  --clr-3:#D8B4E2;
-  --clr-4:#F9FAFB;
 }
 
 /*==================================
@@ -203,11 +198,11 @@ section {
 }
 
 /* Swap Effects */
-/* .hero-content h4 span::after {
+.hero-content h4 span::after {
   content: "";
-} */
+}
 
-/* @keyframes swap {
+@keyframes swap {
   0% {
       content: "Coding!";
   }
@@ -227,7 +222,7 @@ section {
   100% {
       content: "Coding!";
   }
-} */
+}
 
 .hero-content p {
   font-size: 1.6rem;
@@ -373,6 +368,15 @@ section {
   font-size: 1.6rem;
   line-height: 2.2rem;
   margin-bottom: 1.2rem;
+}
+
+.about-content ul{
+  margin-left: 3rem;
+}
+
+.about-content ul li {
+  font-size: 1.6rem;
+  line-height: 2.2rem;
 }
 
 .about-content .btn {
@@ -523,13 +527,13 @@ section {
 }
 
 .active h5 {
-  background: red;
+  background: #763e86;
   color: var(--txt-white);
 }
 
 .active h5::after {
   border-bottom: 21px solid transparent;
-  border-left: 21px solid red;
+  border-left: 21px solid #763e86;
   border-top: 21px solid transparent;
 }
 
